@@ -18,15 +18,15 @@ This project is a vehicle repair and maintainance  system. It allows users to in
 7. User Interface: The project provides a menu-driven interface for users to interact with the rental shop. Users can select options from the menu to perform various operations, such as renting, returning, and repairing vehicles.
 
 ## OOP features used for implementation
-class 
-object
-inheritance 
-polymorphism 
-Encapsulation
-Abstraction
-Constructor
-Exception Handling 
-Virtual function 
++ class 
++ object 
++ inheritance 
++ polymorphism 
++ Encapsulation
++ Abstraction 
++ Constructor 
++ Exception Handling 
+- Virtual function 
 ....
 
 ## How to operate the system
